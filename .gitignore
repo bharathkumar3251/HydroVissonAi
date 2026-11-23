@@ -32,3 +32,5 @@ backend/.venv/
 *.engine
 *.h5
 *.keras
+!backend/app/uploads/
+!backend/app/uploads/*.py
